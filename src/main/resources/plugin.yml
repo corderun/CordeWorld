@@ -1,0 +1,7 @@
+name: CordeWorld
+version: '${project.version}'
+main: com.cordeworld.CordeWorld
+api-version: '1.20'
+description: Teleport to other worlds
+commands:
+  world: {}
